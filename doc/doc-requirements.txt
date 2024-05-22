@@ -13,3 +13,4 @@ scikit-image
 statsmodels
 numpydoc
 sphinx!=4.4
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
